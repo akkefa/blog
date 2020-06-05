@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ikram Ali | Software Engineer | Machine learning | Data scientist / Site Title"
+title                    : "Ikram Ali"
 title_separator          : "-"
 name                     : &name "Ikram Ali"
 description              : &description "A machine learning practitioner and an avid learner with professional experience in managing Python, PHP, Javascript projects and excellent (Machine learning / Deep learning) skills."
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ikram Ali"
   avatar           : "profile.png"
   bio              : "A principal full stack developer with outstanding (Python | Javascript) experience and excellent (Machine learning / Deep learning) skills."
-  location         : "Lahore,PK"
+  location         : "Lahore, PK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
