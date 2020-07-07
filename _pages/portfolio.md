@@ -16,6 +16,6 @@ Docker Environment for building Deep Learning Applications-[docker-deep-learning
 ## Clients
 Search Hundred of travel sites at once-[Kayak](https://www.kayak.com)  
 Super Simple Corporate Travel-[Lola](https://www.lola.com/)  
-Whenever and wherever your people arrive, they will find their room awaiting-[Travelliance](https://travellianceinc.com)  
+Whenever and wherever your people arrive, they will find their room waiting-[Travelliance](https://travellianceinc.com)  
 Best Tea Sellers in Dubai-[Tealand](http://www.tealand.ae)  
 Accelerate your future. Learn anywhere, anywhere-[Edx](https://www.edx.org)

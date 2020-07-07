@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ikram Ali"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Education
-======
+========
 * B.S in Computer Science from Virtual University, Pakistan (2009-2013)
 * Deep Learning Specialization from Coursera (2017-2018)
 
@@ -16,7 +16,7 @@ Certifications
 ==============
 * Deep Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/7TRBVG7U5M3A)
 * Neural Networks and Deep Learning [Certificate](https://www.coursera.org/account/accomplishments/verify/RBTEP9TQYSP7)
-* Hyperparameter tuning, Regularization and Optimization [Certificate](https://www.coursera.org/account/accomplishments/verify/J489QXFNWCGY)
+* Hyperparameter Tuning, Regularization and Optimization [Certificate](https://www.coursera.org/account/accomplishments/verify/J489QXFNWCGY)
 * Structuring Machine Learning Projects [Certificate](https://www.coursera.org/account/accomplishments/verify/2P9S899DLCTD)
 * Convolutional Neural Networks [Certificate](https://www.coursera.org/account/accomplishments/verify/8SPU878F5G7S)
 * Sequence Models [Certificate](https://www.coursera.org/account/accomplishments/verify/D7HJW3VLCVJ6)
@@ -41,8 +41,7 @@ Work Experience
 ===============
 
 ## 2017-Present: Data Scientist(Team Lead) at Kayak.com
-   - Technologies  
-   
+  - Technologies  
     Python , Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask  
   - Responsibilities  
     Employ machine learning algorithms and generating training data.  
