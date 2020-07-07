@@ -6,6 +6,9 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Portfolio"
+    url: /books/
     
   - title: "Contact"
     url: /contact/
