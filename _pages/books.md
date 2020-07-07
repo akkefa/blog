@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: ""
-permalink: /books/
+permalink: /contact/
+title: "Books"
+excerpt: "books"
 author_profile: true
 ---
 
