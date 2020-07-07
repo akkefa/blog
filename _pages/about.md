@@ -15,17 +15,11 @@ Hi! I’m Ikram, a Principal Software Engineer & Python developer at Kayak, work
 8 years of work experience in the software development field, building projects for the web and IoT platforms, using
 different programming tools and languages like Python, PHP, JavaScript, Java, HTML & CSS.
 
-Hi! I’m Ikram, an Principal Software Engineer | Python developer at Kayak, working as a Senior Data Scientist. With expertise
-in Python, Machine Learning, Deep Learning, Solution Architecture, PHP and Javascript, I am Lead of the Data Science Team. I am also the Lead
-of our Company's Solution Architect Team. I have worked on Building python applications, Training and Deploying Machine Learning and Deep Learning
-models, Building projects for Web and IoT platforms.
+I have extensive experience utilizing Python for every day to day tasks. Developing Architecture for full-stack
+application which includes JSON API, Databases communication layers, Router to manage User permissions Or
+NLP and computer vision deep learning applications using Tensorflow Or simple scripting with Click package OR
+web scraping using Scrapy framework etc
 
-## Programming Languages
- - Python
- - PHP
- - Javescript
- - Java
- - HTML/CSS
  
 ## Machine Learning and Deep Learning
 Excellent knowledge of Natural Language Processing(NLP), Computer Vision, Deep Neural Networks, Optimization algorithms and Feature
