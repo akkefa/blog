@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: ""
 permalink: /portfolio/
 author_profile: true
 ---
@@ -19,4 +19,3 @@ Super Simple Corporate Travel-[Lola](https://www.lola.com/)
 Whenever and wherever your people arrive, they will find their room awaiting-[Travelliance](https://travellianceinc.com)  
 Best Tea Sellers in Dubai-[Tealand](http://www.tealand.ae)  
 Accelerate your future. Learn anywhere, anywhere-[Edx](https://www.edx.org)
-
