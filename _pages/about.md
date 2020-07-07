@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Principal Software Engineer at Arbisoft, Lahore working as a Senior Data Scientist for our Travel Client kayak. With expertise
+Hi! I’m Ikram, an Principal Software Engineer | Python developer at Kayak, working as a Senior Data Scientist. With expertise
 in Python, Machine Learning, Deep Learning, Solution Architecture, PHP and Javascript, I am Lead of the Data Science Team. I am also the Lead
 of our Company's Solution Architect Team. I have worked on Building python applications, Training and Deploying Machine Learning and Deep Learning
 models, Building projects for Web and IoT platforms.
