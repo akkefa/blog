@@ -105,30 +105,28 @@ Work experience
   
 Skills
 ======
-* Excellent Python Programming Skills
-* Excellent Machine Learning Skills
+* Python (Expert)
+* Machine Learning and Deep Learning (Senior)
   * Tensorflow
   * keras
   * OpenCV
+  * Scikit-Learn
+  * AWS
+  * Spacy
+  * Pandas
+  * Docker
+  * Word2vec
+  * Glove
+  * Scrapy
+* Web (Expert)
+  * Django
+  * Flask
+  * MySql
+  * Javascript
+  * Twitter Bootstrap
+  * Markdown
+  * React
+  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
