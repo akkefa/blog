@@ -10,6 +10,11 @@ redirect_from:
 
 {% include base_path %}
 
+Hi! I’m Ikram, a Principal Software Engineer | Python developer at Kayak, working as a Senior Data Scientist.
+
+8 years of work experience in the software development field, building projects for the web and IoT platforms, using
+different programming tools and languages like Python, PHP, JavaScript, Java, HTML & CSS.
+
 Hi! I’m Ikram, an Principal Software Engineer | Python developer at Kayak, working as a Senior Data Scientist. With expertise
 in Python, Machine Learning, Deep Learning, Solution Architecture, PHP and Javascript, I am Lead of the Data Science Team. I am also the Lead
 of our Company's Solution Architect Team. I have worked on Building python applications, Training and Deploying Machine Learning and Deep Learning
