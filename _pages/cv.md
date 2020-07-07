@@ -21,10 +21,26 @@ Certifications
 * Convolutional Neural Networks [Certificate](https://www.coursera.org/account/accomplishments/verify/8SPU878F5G7S)
 * Sequence Models [Certificate](https://www.coursera.org/account/accomplishments/verify/D7HJW3VLCVJ6)
 
-Work experience
+
+Skills
+======
+* Python/Django
+
+| Technologies | Django | Flask | MySql | Javascript | Twitter Bootstrap | Markdown | React |  
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
+| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |
+
+* Machine Learning and Deep Learning
+
+| Technologies | TensorFlow | Keras | Scikit-Learn | OpenCV | AWS | Pandas | Scrapy |  
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
+| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |
+
+  
+Work Experience
 ===============
 
-* 2017-Present: Data Scientist(Team Lead) at Kayak.com
+## 2017-Present: Data Scientist(Team Lead) at Kayak.com
    - Technologies  
     Python, Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask
   - Responsibilities  
@@ -46,7 +62,7 @@ Work experience
     Machine learning models deployment using flask and docker.  
     Peer code reviews.  
     
-* 2016-2017: Data Scientist at Lola.com
+## 2016-2017: Data Scientist at Lola.com
   - Technologies:  
     Python, Tensorflow, Pandas, Flask, Pytest, Pandas,
   - Responsibilities:  
@@ -54,7 +70,7 @@ Work experience
     Responsible for the code deployment on the staging and Production environment on AWS Services.  
     Peer code reviews.  
 
-* 2015-Present: Machine Learning Engineer(Team Lead) at Arbisoft
+## 2015-Present: Machine Learning Engineer(Team Lead) at Arbisoft
   - Technologies:  
     Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask
   - Clients: Kayak, Lola travel, Travelliance  
@@ -71,7 +87,7 @@ Work experience
     Detecting and optimizing the performance bottlenecks and provide technical guidance to the team.  
     Peer code reviews.  
 
-* 2014-2015: Senior Software Engineer at Red Signal
+## 2014-2015: Senior Software Engineer at Red Signal
   - Technologies:  
     Django, Android, Laravel, Angularjs, Python, Java, PHP, Javascript
   - Responsibilities:
@@ -89,7 +105,7 @@ Work experience
     Responsible for coming up with user stories and leading technical meetings in the company.  
     -Client communication.  
     
-* 2012-2014: Software Engineer at Cranberry Digital Marketing
+## 2012-2014: Software Engineer at Cranberry Digital Marketing
   - Technologies:  
     Laravel, Zend Framework, Magento, Wordpress, Joomla, woo-commerce, Jquery, PHP, Html, Javascript
 
@@ -102,32 +118,3 @@ Work experience
     Developed Jquery plugins for custom requirements.  
     Used MySQL for data.  
     Leveraged the open source modules i.e. Mailchimp for mailing service and stripe for building payment system.  
-  
-Skills
-======
-* Python-Expert
-* Machine Learning and Deep Learning-Senior
-  * Tensorflow
-  * keras
-  * OpenCV
-  * Scikit-Learn
-  * AWS
-  * Spacy
-  * Pandas
-  * Docker
-  * Word2vec
-  * Glove
-  * Scrapy
-* Web-Expert
-  * Django
-  * Flask
-  * MySql
-  * Javascript
-  * Twitter Bootstrap
-  * Markdown
-  * React
-
-  
-
-  
-
