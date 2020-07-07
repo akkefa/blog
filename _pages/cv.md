@@ -43,10 +43,7 @@ Work Experience
 ## 2017-Present: Data Scientist(Team Lead) at Kayak.com
    - Technologies  
    
-   | Tech |  
-   | :---: |
-   
-    Python, Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask  
+    Python , Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask  
   - Responsibilities  
     Employ machine learning algorithms and generating training data.  
     Developed CNN based model for text classification using Tensorflow.  
