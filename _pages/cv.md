@@ -5,45 +5,14 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+---  
+Work Experiences
+================
 
-Education
-========
-* B.S in Computer Science from Virtual University, Pakistan (2009-2013)
-* Deep Learning Specialization from Coursera (2017-2018)
-
-Certifications
-==============
-* Deep Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/7TRBVG7U5M3A)
-* Neural Networks and Deep Learning [Certificate](https://www.coursera.org/account/accomplishments/verify/RBTEP9TQYSP7)
-* Hyperparameter Tuning, Regularization and Optimization [Certificate](https://www.coursera.org/account/accomplishments/verify/J489QXFNWCGY)
-* Structuring Machine Learning Projects [Certificate](https://www.coursera.org/account/accomplishments/verify/2P9S899DLCTD)
-* Convolutional Neural Networks [Certificate](https://www.coursera.org/account/accomplishments/verify/8SPU878F5G7S)
-* Sequence Models [Certificate](https://www.coursera.org/account/accomplishments/verify/D7HJW3VLCVJ6)
-
-
-Skills
-======
-* Python/Django
-
-| Technologies | Django | Flask | MySql | Javascript | Twitter Bootstrap | Markdown | React |  
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
-| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |
-
-* Machine Learning and Deep Learning
-
-| Technologies | TensorFlow | Keras | Scikit-Learn | OpenCV | AWS | Pandas | Scrapy |  
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
-| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |  
-
-  
-Work Experience
-===============
-
-## 2017-Present: Data Scientist(Team Lead) at Kayak.com
-  - Technologies  
+## 2017-Present: Sr. Data Scientist(Team Lead) at Kayak.com
+  - **Technologies**  
     Python , Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask  
-  - Responsibilities  
+  - **Responsibilities**  
     Employ machine learning algorithms and generating training data.  
     Developed CNN based model for text classification using Tensorflow.  
     Developed RNN, BILSTM based models for NER detection and Text classification using Tensorflow.  
@@ -63,18 +32,19 @@ Work Experience
     Peer code reviews.  
     
 ## 2016-2017: Data Scientist at Lola.com
-  - Technologies:  
+  - **Technologies**:  
     Python, Tensorflow, Pandas, Flask, Pytest, Pandas,
-  - Responsibilities:  
+  - **Responsibilities**:  
     Developed a natural language multi-turn interactive bot, to be hosted within a distributed Flask-based python web service. The bot service is conversational context and disambiguate references, allowing for multi-turn interactions.  
     Responsible for the code deployment on the staging and Production environment on AWS Services.  
     Peer code reviews.  
 
-## 2015-Present: Machine Learning Engineer(Team Lead) at Arbisoft
-  - Technologies:  
+## 2015-Present: Principal Python Developer(Team Lead) at Arbisoft.com
+  - **Technologies**:  
     Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask
-  - Clients: Kayak, Lola travel, Travelliance  
-  - Responsibilities:  
+  - **Clients**:
+    Kayak, Lola travel, Travelliance  
+  - **Responsibilities**:  
     Developed a natural language multi-turn interactive bot, to be hosted within a distributed Flask-based python web service. The bot service is conversational context and disambiguate references, allowing for multi-turn interactions.  
     Parsing trips emails for extracting the entities using NLP / machine learning.  
     Developed text classification models in tensorflow for NLP problem.  
@@ -88,9 +58,9 @@ Work Experience
     Peer code reviews.  
 
 ## 2014-2015: Senior Software Engineer at Red Signal
-  - Technologies:  
+  - **Technologies**:  
     Django, Android, Laravel, Angularjs, Python, Java, PHP, Javascript
-  - Responsibilities:
+  - **Responsibilities**:
     Developed enterprise web app with AngularJS, Django, ElasticSearch and Docker.  
     Architecting and developing web applications in Flask and AngularJS.  
     Building, testing and documenting RESTful APIs.  
@@ -106,10 +76,10 @@ Work Experience
     -Client communication.  
     
 ## 2012-2014: Software Engineer at Cranberry Digital Marketing
-  - Technologies:  
+  - **Technologies**:  
     Laravel, Zend Framework, Magento, Wordpress, Joomla, woo-commerce, Jquery, PHP, Html, Javascript
 
-  - Responsibilities:  
+  - **Responsibilities**:  
     Developed scalable systems with Laravel and codeigniter frameworks.  
     Developed the E-commerce solutions in Magneto.  
     Provide the customized CMS solution in PHP.  
@@ -118,3 +88,33 @@ Work Experience
     Developed Jquery plugins for custom requirements.  
     Used MySQL for data.  
     Leveraged the open source modules i.e. Mailchimp for mailing service and stripe for building payment system.  
+
+
+Certifications
+==============
+* Deep Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/7TRBVG7U5M3A)
+* Neural Networks and Deep Learning [Certificate](https://www.coursera.org/account/accomplishments/verify/RBTEP9TQYSP7)
+* Hyperparameter Tuning, Regularization and Optimization [Certificate](https://www.coursera.org/account/accomplishments/verify/J489QXFNWCGY)
+* Structuring Machine Learning Projects [Certificate](https://www.coursera.org/account/accomplishments/verify/2P9S899DLCTD)
+* Convolutional Neural Networks [Certificate](https://www.coursera.org/account/accomplishments/verify/8SPU878F5G7S)
+* Sequence Models [Certificate](https://www.coursera.org/account/accomplishments/verify/D7HJW3VLCVJ6)
+
+Education
+========
+* B.S in Computer Science from Virtual University, Pakistan (2009-2013)
+* Deep Learning Specialization from Coursera (2017-2018)
+
+
+Skills
+======
+* Python/Django
+
+| Technologies | Django | Flask | MySql | Javascript | Twitter Bootstrap | Markdown | React |  
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
+| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |
+
+* Machine Learning and Deep Learning
+
+| Technologies | TensorFlow | Keras | Scikit-Learn | OpenCV | AWS | Pandas | Scrapy |  
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
+| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |  
