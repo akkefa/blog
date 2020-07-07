@@ -1,6 +1,6 @@
 ---
 permalink: /books/
-title: "Books"
+title: ""
 excerpt: "books"
 author_profile: true
 ---
