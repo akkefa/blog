@@ -34,7 +34,7 @@ Skills
 
 | Technologies | TensorFlow | Keras | Scikit-Learn | OpenCV | AWS | Pandas | Scrapy |  
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
-| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |
+| Level |  Pro  | Pro | Pro | Pro | Pro | Pro | Pro |  
 
   
 Work Experience
@@ -42,7 +42,11 @@ Work Experience
 
 ## 2017-Present: Data Scientist(Team Lead) at Kayak.com
    - Technologies  
-    Python, Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask
+   
+   | Tech |  
+   | :---: |
+   
+    Python, Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask  
   - Responsibilities  
     Employ machine learning algorithms and generating training data.  
     Developed CNN based model for text classification using Tensorflow.  
