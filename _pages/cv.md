@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Ikram Ali"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -105,8 +105,8 @@ Work experience
   
 Skills
 ======
-* Python (Expert)
-* Machine Learning and Deep Learning (Senior)
+* Python-Expert
+* Machine Learning and Deep Learning-Senior
   * Tensorflow
   * keras
   * OpenCV
@@ -118,7 +118,7 @@ Skills
   * Word2vec
   * Glove
   * Scrapy
-* Web (Expert)
+* Web-Expert
   * Django
   * Flask
   * MySql
@@ -126,6 +126,7 @@ Skills
   * Twitter Bootstrap
   * Markdown
   * React
+
   
 
   
