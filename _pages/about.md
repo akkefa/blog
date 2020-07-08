@@ -22,10 +22,6 @@ NLP and computer vision deep learning applications using Tensorflow Or simple sc
 web scraping using Scrapy framework etc
 
  
-## Machine Learning and Deep Learning
-Excellent knowledge of Natural Language Processing(NLP), Computer Vision, Deep Neural Networks, Optimization algorithms and Feature
-Engineering.
-
 ## DataBases
 I have industry experience in designing and optimizing large relational databases built on popular technologies, including MySQL.
 
