@@ -11,7 +11,7 @@ Work Experiences
 
 ## 2017-Present: Sr. Data Scientist(Team Lead) at Kayak.com
   - **Technologies**  
-    Python , Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask  
+    Python, Tensorflow, Keras, Scikit-learn, pandas, spacy, Numpy, NLP, Deep learning, Machine learning, Flask, Airflow 
   - **Responsibilities**  
     Employ machine learning algorithms and generating training data.  
     Developed CNN based model for text classification using Tensorflow.  
@@ -28,7 +28,8 @@ Work Experiences
     Parsing trip emails for extracting the entities using NLP / machine learning.  
     Developed CNN classification models in tensorflow for NLP problem.  
     Building and managing new features and integrations with third-party services.  
-    Machine learning models deployment using flask and docker.  
+    Machine learning models deployment using flask and docker.
+    Using apache Airflow to automate the model training and result generation pipeline.  
     Peer code reviews.  
     
 ## 2016-2017: Data Scientist at Lola.com
