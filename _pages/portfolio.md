@@ -12,10 +12,3 @@ Complete setup with tutorial for deploying Django project on docker setup-[djang
 Single Page Developer Portfolio Template-[developer-portfolio](https://github.com/akkefa/developer-portfolio)  
 Docker Environment for building Deep Learning Applications-[docker-deep-learning-libraries](https://github.com/akkefa/docker-deep-learning-libraries)  
 
-
-## Clients
-Search Hundred of travel sites at once-[Kayak](https://www.kayak.com)  
-Super Simple Corporate Travel-[Lola](https://www.lola.com)  
-Whenever and wherever your people arrive, they will find their room waiting-[Travelliance](https://travellianceinc.com)  
-Best Tea Sellers in Dubai-[Tealand](http://www.tealand.ae)  
-Accelerate your future. Learn anywhere, anywhere-[Edx](https://www.edx.org)

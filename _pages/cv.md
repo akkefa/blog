@@ -100,6 +100,12 @@ Certifications
 * Convolutional Neural Networks [Certificate](https://www.coursera.org/account/accomplishments/verify/8SPU878F5G7S)
 * Sequence Models [Certificate](https://www.coursera.org/account/accomplishments/verify/D7HJW3VLCVJ6)
 
+* Natural Language Processing Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KR56PWKASG88)
+* Natural Language Processing with Classification and Vector Spaces [Certificate](https://www.coursera.org/account/accomplishments/certificate/FKLT9S9DHJDA)
+* Natural Language Processing with Probabilistic Models [Certificate](https://www.coursera.org/account/accomplishments/certificate/YK97ZAC9Q7DT)
+* Natural Language Processing with Sequence Models [Certificate](https://www.coursera.org/account/accomplishments/certificate/35TP6CJV6Z9T)
+* Natural Language Processing with Attention Models [Certificate](https://www.coursera.org/account/accomplishments/certificate/WN6NY687D8CF)
+
 Education
 ========
 * B.S in Computer Science from Virtual University, Pakistan (2009-2013)
